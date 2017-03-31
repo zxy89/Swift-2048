@@ -1,0 +1,6 @@
+framework module Pods_XY2048 {
+  umbrella header "Pods-XY2048-umbrella.h"
+
+  export *
+  module * { export * }
+}
